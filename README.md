@@ -1,0 +1,2 @@
+# ambiente.do.pensador
+ideias
